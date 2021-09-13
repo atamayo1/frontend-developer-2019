@@ -1,2 +1,2 @@
 # Frontend Technologies
-Curso de Platzi sobre el Frontend
+Course for frontend technologies in Platzi
