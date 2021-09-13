@@ -1,2 +1,2 @@
-# frontend-developer-2019
+# Frontend Developer
 Curso de Platzi sobre el Frontend
