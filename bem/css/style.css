@@ -1,0 +1,10 @@
+.header__button--red {
+    color: white;
+    background-color: red;
+    border: 1px solid #ccc;
+}
+.header__button--yellow {
+    color: black;
+    background-color: yellow;
+    border: 1px solid #ccc;
+}
